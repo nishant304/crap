@@ -1,0 +1,365 @@
+
+
+
+/*       index page    */
+
+.top{
+	background-color:black;
+	padding: 10px;
+}
+.icons{
+	margin-left: 6px;
+	font-size: 21px;
+	color: white;
+}
+
+.email{
+	/*margin-left: 6px;*/
+	font-size: 21px;
+	color: white;
+}
+
+.menu{
+	background-color:rgba(128, 128, 128, 0.31);
+}
+
+.listin{
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.navbar-nav>li>a{
+	color: gray;
+}
+
+
+.section{
+	text-align: center !important;
+	margin-top: 55px;
+}
+
+
+.section h3{
+	color: #989191;
+	font-weight: bold;
+}
+
+.section p{
+	color: #989191;
+}
+
+
+.section_icon{
+  font-size: 60px !important;
+  transition: 1s;
+  color: lightseagreen;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.section_icons{
+  font-size: 80px;
+  transition: 1s;
+  color: lightseagreen;
+  border-radius: 50%;
+ padding: 12px 35px 15px 33px;
+}
+
+.section_icon:hover{
+	background-color: lightseagreen;
+	border-radius: 50%;
+    padding: 20px;
+    color: white;
+
+}
+
+.section_icons:hover{
+    background-color: lightseagreen;
+	border-radius: 50%;
+ padding: 12px 35px 15px 33px;
+    color: white;
+}
+
+
+/*servisc*/
+
+.tech{
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	margin-top: 70px;
+}
+
+.one:hover .two{
+	display: none;
+}
+
+.one:hover .three{
+	display: block;
+	background-color: lightseagreen;
+	padding: 20px 20px 75px 20px;
+	color: white;
+
+}
+
+.three{
+	display: none;
+	overflow: hidden;
+}
+
+.sol{
+	margin-top: 41px;
+    margin-bottom: 51px;
+    color: gray;
+    font-size: 40px;
+    text-shadow: 4px -3px lightgrey;
+    font-weight: bold;
+}
+
+
+.two{
+	border: 10px solid white;
+	box-shadow: 0px 0px 25px gray;
+	padding: 20px;
+	overflow: hidden;
+}
+
+
+
+/*service*/
+
+
+
+
+.one_one:hover .two_two{
+	display: none;
+}
+
+.one_one:hover .three_three{
+	display: block;
+	background-color: lightseagreen;
+	/*padding: 20px 20px 75px 20px;*/
+	color: white;
+	height: 257px;
+	text-align: justify;
+
+}
+
+.three_three{
+	display: none;
+	overflow: hidden;
+}
+
+.sol{
+	margin-top: 41px;
+    margin-bottom: 51px;
+    color: gray;
+    font-size: 40px;
+    text-shadow: 4px -3px lightgrey;
+    font-weight: bold;
+}
+
+
+.two_two{
+	border: 1px solid white;
+	box-shadow: 0px 0px 25px gray;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.srv{
+	margin-top: 41px;
+    margin-bottom: 51px;
+    color: white;
+    font-size: 40px;
+    text-shadow:1px -1px 4px rgba(211, 211, 211, 0.63);
+    font-weight: bold;
+    text-align: center;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	margin-top: 70px;
+}
+
+.grd_one{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.65) ), url(../img/bal.jpg);
+    background-size: 100% 100%;
+    position: relative;
+    width: 100%;
+    height: 560px;
+    overflow: hidden;
+    margin-top: 69px;
+}
+.tal{
+	color: white;
+	text-align: center;
+}
+
+.blok{
+	margin-top: 65px;
+}
+
+
+.para2{
+	color: gray;
+    line-height: 30px;
+    font-family: initial;
+    text-align: justify;
+}
+
+.get{
+	color: gray;
+}
+
+.sub_mt{
+	border-radius: 0px;
+	margin-bottom: 20px;
+
+}
+
+.sub_mt:hover{
+	background-color: gray;
+	border: gray;
+	margin-bottom: 20px;
+
+}
+
+
+.footer{
+	
+    /*background-size: 100% 100%;
+	position: relative;
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+	text-align: center;*/
+	color: white;
+	background-color: black;
+}
+
+
+.ftt{
+	background-color: black;
+	height: 300px;
+	width: 100%;
+}
+
+.post{
+	font-size: 12px;
+	color: white;
+}
+
+
+
+.lp{
+	margin-bottom: 30px;
+
+}
+
+.arf{
+	text-align: justify !important;
+	color: white!important ;
+}
+
+.justi{
+	text-align: justify;
+}
+
+.mk{
+	line-height: 24px;
+}
+
+.lastt{
+	width: 100%;
+	height: 50px;
+	background-color: lightgray;
+	text-align: center;	
+}
+
+.las_tt{
+	margin-top: 20px;
+}
+
+/*    end index    */
+
+
+
+
+/*about*/
+
+.our_team{
+	margin-top: 80px;
+	color: gray;
+	line-height: 26px;
+	text-align: justify;
+}
+
+.grn{
+	color: lightseagreen;
+}
+
+
+
+/*end about*/
+
+
+.dev_p{
+	margin-top: 60px;
+	color: gray;
+}
+.vic{
+    font-size: 47px;
+    text-align: center;
+    font-weight: 600;
+   
+}
+
+.w_s{
+	line-height: 27px;
+}
+
+.mob_ile{
+	margin-top: 60px;
+}
+
+.mob{
+	height: 400px;
+	margin-top: 60px;
+
+}
+
+.andro{
+	text-align: justify;
+	color: gray;
+	line-height: 30px;
+}
+
+.mba{
+	margin-bottom: 50px;
+	color: gray;
+
+}
+
+.mbaa{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+	color: gray;
+}
+
+.st{
+	color: lightseagreen;
+}
+
+.ppara{
+	color: gray;
+	line-height: 28px;
+}
+
+.clr{
+	color: lightseagreen;
+}
+
+.hd{
+	font-weight: bold;
+	color: gray;
+}

@@ -1,0 +1,37 @@
+.std_main{
+		padding: 0 10px 10px 10px;
+		background-color: #f3f3f3;
+		margin-top: 80px;
+		padding: 0px;
+	}
+	.control-label{
+		color: #acb0b0;
+		padding: 12px 0px 0px 40px;
+	}
+	.control-label-clr{
+		color: #acb0b0;
+		padding: 3px 0px 0px 40px;
+	}
+	.std_log{
+		color: #333;
+		text-align: center;
+	}
+	.input-group{
+		padding: 6px;
+	}
+	.authory{
+		background:#18b9e7;
+		border:none;
+		font-size: 15px;
+	}
+	.authory:hover,
+	.authory:focus{
+		background:rgba(24, 185, 231, 0.82) !important;
+	
+	}
+	.pading_o{
+		padding: 0px;
+	}
+	.marg_top{
+		margin-top: 6px;
+	}
